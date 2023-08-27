@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+fastapi
+uvicorn
+gunicorn
+uvloop
+httptools
